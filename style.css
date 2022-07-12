@@ -1,0 +1,119 @@
+.text2cols {
+white-space: nowrap;
+}
+
+.text2cols-item {
+white-space: normal;
+display: inline-block;
+width: 48%;
+vertical-align: top;
+background: #00000;
+text-align: left;
+text-shadow: 2px 1px 3px rgba(90,90,90,0.2);
+}
+
+.img {
+wight: 100px;
+height: 100px;
+}
+
+.text2cols-item {
+width: 50%;
+background: #00000;
+}
+
+.text2cols .text2cols-item:first-child {
+margin-right: 4%;
+}
+
+* {box-sizing: border-box;} 
+form { 
+ position: relative; 
+ width: 300px; 
+ margin: 0 auto; 
+} 
+input { 
+ width: 100%; 
+ height: 42px; 
+ padding-left: 10px; 
+ border: 2px solid #7BA7AB; 
+ border-radius: 5px; 
+ outline: none; 
+ background: #F9F0DA; 
+ color: #9E9C9C; 
+} 
+button { 
+ position: absolute; 
+ top: 0; 
+ right: 0px; 
+ width: 42px; 
+ height: 42px; 
+ border: none; 
+ background: #7BA7AB; 
+ border-radius: 0 5px 5px 0; 
+ cursor: pointer; 
+} 
+button:before { 
+ content: "\f002"; 
+ font-family: FontAwesome; 
+ font-size: 16px; 
+ color: #F9F0DA; 
+}
+
+img{
+background-image: url("C:\Users\Admin\Pictures\1.png");
+background-size: no-repeat;
+background-position: center;
+background-size: cover;
+height: auto;
+width: 500px;
+}
+
+/* задаем относительное позиционирование контейнеру */
+.block{position:relative;}
+/* Оформление скрытого элемента по умолчанию */ 
+.hidden
+{display: none;
+position: absolute;
+bottom: 130%;
+left: 0px;
+background-color: #fff;
+color: Black;
+padding: 5px;
+text-align: center;
+-moz-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+box-shadow: 0 1px 1px rgba(50,50,50,.9);
+font-size: 13px;}
+/* Дополнительное оформление скрытого элемента(необязательно) */
+.hover + .hidden:before
+{content: " ";
+position: absolute;
+top: 98%;
+left: 10%;
+margin-left: -5px;
+border-width: 5px;
+border-style: solid;
+height: 0;
+width: 0;
+border: 7px solid transparent;
+border-right: 7px solid #fff;
+border-color: #fff transparent transparent transparent;
+z-index: 2;}
+.hover + .hidden:after
+{content: " ";
+position: absolute;
+top: 100%;
+left: 10%;
+margin-left: -5px;
+border-width: 5px;
+border-style: solid;
+height: 0;
+width: 0;
+border: 7px solid transparent;
+border-right: 7px solid #fff;
+border-color: rgba(0,0,0,.16) transparent transparent transparent;
+z-index: 1;
+text-shadow: 2px 1px 3px rgba(90,90,90,0.4);}
+/* Появление скрытого элемента при наведении */
+.hover:hover + .hidden{display: block;}

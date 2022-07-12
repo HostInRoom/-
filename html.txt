@@ -1,0 +1,2532 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Адреса доставки</title>
+ <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<table
+border="1"
+align="center"
+rules="rows"
+style="width:30%;">
+<figure>
+<center>
+<a href="https://pizzapro.ru"><img src="https://i.ibb.co/bmcHk0B/1.png" height="100" width="100" alt="1" border="0"></a>
+<figcaption><b><font color="575757" size="4">Нажми <font color="RED">CTRL+F</font> и введи адрес</b></font></figcaption></figure>
+<!-- <class="adress"><font size=5 color="gray">Важная информация</class></font></align>
+<br>По адресу (Адмирала Нахимова) разные цены 
+<center><form action="" method="get"> 
+ <input name="s" placeholder="Искать здесь..." type="search"> 
+ <button type="submit">Поиск</button> 
+</form><br><br> --><center><fieldset style="width:45%;">
+<legend><font color="grey" size="2"><b><font color="red">Жми на стрелку</font> или <font color="red">наводи мышь</font>, для получения доп.информации о районе</b></font></legend>
+<body>
+<div class="text2cols">
+<div class="text2cols-item">
+<font size="4" color="red"><center><strong>БОЕВАЯ 64/2</center></font>
+<details><summary><font color="purple">Осыпной бугор</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">600р.</font> беспл. доставка</font></details>
+<font color="#DC143C">А</font>
+<div class="block">
+ <div class="hover"><font size="2">Астраханская
+<br>Астраханский
+<br>Ассии Эрембетовой
+<br>Аэродромная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover"><font size="2">Береговая
+<br>Буденного
+<br>Бэллы Ахмадулиной</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover"><font size="2">Веселая
+<br>Виноградная
+<br>Вишневый
+<br>Восточная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover"><font size="2">Гагарина
+<br>Гаражная
+<br>Горького</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover"><font size="2">Дружбы</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Е</font>
+<div class="block">
+ <div class="hover"><font size="2">Есенина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover"><font size="2">Зеленая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">И</font>
+<div class="block">
+ <div class="hover"><font size="2">Ильгама Шакирова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover"><font size="2">Кави-Нажми
+<br>Калинина
+<br>Казанская
+<br>Камала
+<br>Кирова
+<br>Клубная
+<br>Клубный
+<br>Комарова
+<br>Колхозная
+<br>Крымская
+<br>Курская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover"><font size="2">Лермонтова
+<br>Луганская
+<br>Луконина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover"><font size="2">Молодежная
+<br>М.Джалиля
+<br>Мира</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover"><font size="2">Набережная
+<br>Надежды
+<br>Нариманова
+<br>Новая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover"><font size="2">Олимпийская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover"><font size="2">Паршина
+<br>Первомайская
+<br>Пионерская
+<br>Полимерная
+<br>Победы
+<br>Промышленная
+<br>Пушкина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover"><font size="2">Рабочая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover"><font size="2">Садовый
+<br>Сдт Дары природы
+<br>Сдт Снабсервис
+<br>Советская
+<br>Солнечная 1-я
+<br>Солнечная 2-я
+<br>Солнечная
+<br>Спортивная
+<br>Степная
+<br>Строительная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover"><font size="2">Тенистая
+<br>Тукая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">У</font>
+<div class="block">
+ <div class="hover"><font size="2">Уютная
+<br>Уютный 1-й
+<br>Уютный 2-й
+<br>Уютный 3-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Ф</font>
+<div class="block">
+ <div class="hover"><font size="2">Фермерская улица</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Ц</font>
+<div class="block">
+ <div class="hover"><font size="2">Царевский 1-й переулок
+<br>Царевский 2-й переулок</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover"><font size="2">Шевченко
+ <br>Школьная улица
+<br>Школьный переулок</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Ч</font>
+<div class="block">
+ <div class="hover"><font size="2">Чапаева
+<br>Чехова
+<br>Чкалова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Ю</font>
+<div class="block">
+ <div class="hover"><font size="2">Юбилейная улица
+<br>Юбилейный переулок
+<br>Южная улица</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Я</font>
+<div class="block">
+ <div class="hover"><font size="2">Яблоневая улица</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.</font> доставка бесплатная</span>
+ </div>
+<br><br><details></font><summary><font color="DarkSlateBlue">Началово</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</font></details>
+<font color="#DC143C">A</font>
+<font size="2">
+<div class="block">
+ <div class="hover">А.Блока
+<br>А.Васнецова
+<br>А.Грибоедова
+<br>Аверьянова
+<br>Адмиралтейская
+<br>Азовская
+<br>Амурская
+<br>Анютинская
+<br>Астраханская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover"><font size="2">Балтийская улица
+<br>Бебеля
+<br>Бебеля
+<br>Бекетова
+<br>Белинского
+<br>Береговая
+<br>Березовая
+<br>Боевая
+<br>Болдинская
+<br>Болдинский
+<br>Бориса Кустодиева
+<br>Бородинская
+<br>Бригадная
+<br>Бригадный</font>
+<br><br><font color="#DC143C">В</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<div class="block">
+ <div class="hover"><font size="2">Валентина Серова
+<br>Вековой
+<br>Весенняя
+<br>Виноградная
+<br>Волгоградская
+<br>Волжская
+<br>Восточная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover"><font size="2">Гагарина
+<br>Горького</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Д.Бедного
+<br>Дальняя
+<br>Дениса Давыдова
+<br>Деревенская
+<br>Донская
+<br>Дорожная
+<br>Дубовая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Е</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Еловая
+<br>Емельянова
+<br>Енисейская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ж</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Жемчужная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Западный
+<br>Заречная
+<br>Звездная
+<br>Зеленая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">И</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+И.Крылова
+<br>И.Репина
+<br>И.Тургенева
+<br>Ивана Шишкина
+<br>Ильи Глазунова
+<br>Иртышская
+<br>Историческая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Калинина
+<br>Камышина
+<br>Караванная
+<br>Карла Брюлова
+<br>Каспийская
+<br>Кедровая
+<br>Килинчинская
+<br>Килинчинское шоссе
+<br>Кирова
+<br>Кленовая
+<br>Колхозная
+<br>Колхозный
+<br>Кольцевая
+<br>Королева
+<br>Космонавтов
+<br>Костромская
+<br>Кривых
+<br>Кузнечный
+<br>Куйбышева
+<br>Кутузова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Л.Толстого
+<br>Ленина
+<br>Ленинградская
+<br>Лермонтова
+<br>Лесная
+<br>Линейная
+<br>Липовая
+<br>Луговая
+<br>Лунная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Майская
+<br>Майский
+<br>Малый
+<br>Мелиоративная
+<br>Мелиоративный
+<br>Минина
+<br>Молодежная
+<br>Молодежный
+<br>Московская
+<br>Мостовая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Н.Гоголя
+<br>Н.Карамзина
+<br>Набережная
+<br>Нахимова
+<br>Началовская
+<br>Невская
+<br>Некрасова
+<br>Николая Рериха
+<br>Новгородская
+<br>Новостроя</font>
+<br><br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Озерная
+<br>Октябрьская
+<br>Орджоникидзе
+<br>Ореховая
+<br>Осенняя</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Парниковая
+<br>Паромная
+<br>Песчанная
+<br>Пионерская
+<br>Победы
+<br>Пожарского
+<br>Полевая
+<br>Прибрежная
+<br>Пригородный
+<br>Придорожная
+<br>Проездной
+<br>Промысловая
+<br>Проселочная
+<br>Прохладная
+<br>Прудовая
+<br>Прямой
+<br>Пугачева
+<br>Пушкина
+<br>Пятой бригады</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Радужная
+<br>Раздольная
+<br>Речная
+<br>Речной
+<br>Родниковая
+<br>Российская
+<br>Рыбацкая
+<br>Рыбкина
+<br>Рыночная
+<br>Рябиновая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+С.Есенина
+<br>Садовая
+<br>Сафатова
+<br>Свердлова
+<br>Северная
+<br>Сиреневая
+<br>Советская
+<br>Солнечная
+<br>Солнечный
+<br>Сосновая
+<br>Спортивная
+<br>Степная
+<br>Строительная
+<br>Студенческая
+<br>Студенческий
+<br>Суворова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Тельмана
+<br>Тепличная
+<br>Тихий
+<br>Тополиная
+<br>Трусова
+<br>Тупой
+<br>Тургенева</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">У</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Уютный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ф</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ф.Достоевского
+<br>Ф.Тютчева
+<br>Фаламеева
+<br>Фаламеева
+<br>Фермерская
+<br>Фрунзе</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ц</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Цветочная
+<br>Центральная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ч</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Чайковского
+<br>Чапаева
+<br>Черепашинская
+<br>Черноморская
+<br>Чехoва
+<br>Чугунова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Школьная
+<br>Шоссейная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Э</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Экспериментальная
+<br>Электрическая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ю</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Южная
+<br>Южный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">Я</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ясеневая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><font color="#DC143C">1-9</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+1-й Мостовой
+<br>1-й Тополиный
+<br>2-й Мостовой
+<br>2-й Тополиный
+<br>3-й Мостовой
+<br>4-й Мостовой
+<br>5-й Мостовой</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>доставка</span>
+ </div>
+<br><br><details></font><summary><font color="bd00cf">Казачий</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</font></details>
+<font color="#DC143C">А</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Аджарский
+<br>Азербайджанская
+<br>Алуштинский</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Бирюсинская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Достоевского</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Е</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ейская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Запорожская
+<br>Запорожская 1-я</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Книпович
+<br>Кооперативный
+<br>Космическая
+<br>Космонавта Комарова
+<br>Краснопитерская
+<br>Красный Рыбак</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Латвийская
+<br>Лизы Чайкиной
+<br>Луганская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Мариупольская
+<br>Медиков
+<Br>Мелитопольская
+<br>Мелитопольская 2-я</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Набережная Казачьего Ерика
+<br>Нагорная
+<br>Нагорная 1-я
+<br>Нагорный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Охотничья
+<br>Очаковская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Приволжская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Славянская
+<br>Степана Разина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Томский
+<br>Тропическая
+<br>Туапсинская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">У</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Украинская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Э</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Эльбрусская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>доставка беспл.<br>При заказе менее <font color="red">600р.+100р.</font> Доставка</span>
+ </div>
+<br><br><details></font><summary><font color="0060cf">Яксатово</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</font></details>
+<font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Веселая
+<br>Весенняя
+<br>Виноградная
+<br>Вишневая
+<br>ВНИИР им Вавилова
+<br>Восточный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Газопроводная
+<br>Газопроводная 2-я</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Дальняя
+<br>Дачная
+<br>Дачная 1-я
+<br>Дачный
+<br>Дорожная
+<br>Дружбы</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Заречная
+<br>Звездная
+<br>Зеленая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">И</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ирле</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Камызякская
+<br>Камызякское
+<br>Кигачная
+<br>Кизанская
+<br>Кирова
+<br>Колхозная
+<br>Консервная
+<br>Курортная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Левоеричная
+<br>Летняя
+<br>Луговая
+<br>Луговой
+<br>Лунная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Мира
+<br>Молодежная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Набережная
+<br>Новая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Территория онт Родничок</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Подгорная
+<br>Полевая
+<br>Правоеричная
+<br>Прибрежная
+<br>Природная
+<br>Путевая
+<br>Путевая 1-я
+<br>Пушкина
+<br>Путевая 2-я</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Речная
+<br>Романтическая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Садовая
+<br>Сафаралиева
+<br>Светлая
+<br>Советская
+<br>Солнечная
+<br>Специалистов
+<br>Спортивная
+<br>Степная
+<br>Строителей
+<br>Строительная
+<br>Суворова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Тенистая
+<br>Тепличная
+<br>Тихий
+<br>Трудовая
+<br>Тукая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ф</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Фруктовая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ч</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Чапаева</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Школьная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ю</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Южная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+200р.
+</font>Доставка</span>
+ </div>
+<br><br><details></font><summary><font color="00b86b">Три протока</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</font></details>
+<font color="#DC143C">А</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Абрикосовая
+<br>Аграрная
+<br>Астраханская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Болдинская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Вишневая
+<br>Восточная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Гагарина
+<br>Гоголя</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Дальняя
+<br>Дорожная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Заречная
+<Br>Зеленая
+<br>Земляничная
+<br>Земляничный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">И</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Имени З.Муртазаева
+<Br>Имени Веры Жилкиной
+<Br>Имени Павла Морозова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Кирова
+<br>Комсомольская
+<br>Крестьянская
+<br>Кубанская
+<br>Куйбышева</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ленина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+М.Джалиля
+<br>Майская
+<br>Мира
+<br>Мирная
+<br>Молодежная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Набережная
+<br>Нариманова
+<br>Новая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Парковая
+<br>Пионерская
+<br>Питерская
+<br>Питерская 3-я
+<br>Плещеева
+<br>Победы
+<br>Пограничная
+<br>Придорожная
+<br>Прикутумная
+<br>Проточный
+<br>Пугачева
+<Br>Пушкина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Садовая
+<Br>Садоводческая
+<br>Советская
+<br>Солнечная
+<br>Степная
+<br>Строителей</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Тепличная
+<br>Тихая 
+<br>Тукая 
+<br>Тупиковая 
+<Br>Тутниковая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ф</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Финиковая 
+<br>Фрунзе</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ц</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Цветочная 
+<br>Центральная</font> </div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ч</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Чайковского
+<br>Чайковского
+<br>Чехова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Широкая 
+<br>Школьная </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Щ</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Щорса</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ю</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Юбилейная 
+<br>Южная 
+<br>Южная 2-я </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Я</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Яблоневая </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><font color="#DC143C">1-9</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+1-Питерская 
+<br>2-Питерская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.+150р.
+</font>Доставка</span>
+ </div>
+<br><br><details></font><summary><font color="adb000">Старокучергановка</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.</font></details>
+<font color="#DC143C">A</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Авиационная
+<br>Астраханский</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Баженова
+<br>Баженова
+<br>Бакинская 
+<br>Бебеля
+<br>Бугровая 
+<br>Бугровой</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Вольная 
+<br>Вольный 
+<br>Восточная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Гагры</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Дальняя 
+<br>Дарминская 
+<br>Дорожная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Ж</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Жигулевская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Западная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Казанская 
+<br>Касимовская 
+<Br>Кленовая 
+<br>Колхозная 
+<br>Комарова
+<br>Комсомольская 
+<br>Конечный 
+<br>Концевая 
+<br>Кочубея
+<br>Круговая 
+<br>Крупской 
+<br>Крымская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ленина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Малая
+<br>Межевая 
+<br>Межевой 
+<br>Мелиоративная 
+<br>Мелиоративный 
+<br>Молдавская 1-я 
+<br>Молдавская 2-я 
+<br>Молдавская 3-я 
+<br>Молодежная 
+<br>Морская 
+<Br>Мостовая 
+<br>Мостовой</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Набережная 2-я 
+<br>Некрасова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Объездная 
+<Br>Озерная 
+<br>Окольная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Передовой 
+<br>Пионерская 
+<br>Победы
+<Br>Почтовый 
+<Br>Проездная 
+<Br>Проездная 1-я 
+<br>Проездной 
+<br>Проездной 2-й 
+<br>Проездной 3-й 
+<br>Проездной 4-й 
+<br>Путевая 
+<br>Пушкина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Репина
+<br>Рязанская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Свободная 
+<br>Севастопольская 
+<br>Советская 
+<br>Совхозный 
+<br>Солдатская 
+<br>Сочинская 
+<Br>Степная 
+<br>Степной 
+<br>Строительная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Темрюкская 
+<br>Тополиная 
+<br>Трудовая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">У</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Узкий</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Ч</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Чапаева
+<br>Чехова
+<br>Чкалова
+<br>Чусовая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Школьный 
+<br>Шоссейный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Ю</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Юбилейный
+<br>Южная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">1-9</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+1-ый Сочинский 
+<br>2-ой Сочинский 
+<br>3-ий Сочинский
+<br>4-ый Сочинский
+<br>8 Марта</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка бесплатная</span>
+ </div>
+<br><br><details></font><summary><font color="008891">Фунтовское шоссе</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></font></details>
+<font color="#DC143C">А</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Аграрная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Береговой</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Валентиный Терешковой</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Грушевая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Кузнецова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Локомотивный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Набережная Семиковки 
+<br>Николая Кузнецова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Осыпной</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Павла Корчагина
+<br>Пролетный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Рождественского 
+<br>Российская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Сиреневый
+<br>Семиковки</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Травинский 
+<br>Травинский 1-й
+<br>Травинский 2-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Ф</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Фунтовский 
+<br>Фунтовский 2-й
+<br>Фунтовский 3-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Ц</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Центральный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Ч</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Чеченова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Щ</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Щегловый
+<br>Щегловый 1-й
+<br>Щегловый 2-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>Доставка беспл.<br>При заказе менее <font color="red">600р.</font> доставка <font color="red">+100р.</font></span>
+ </div><br><br>
+<details></font><summary></font><font color="0a4500">Завод имени 30-ти лет октября</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></font></details>
+<font color="#DC143C">А</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Адмирала Нахимова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Солнечная  
+<br>Сумгаитская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Коммунальная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Панфилова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Немова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Палласовская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Коллективная 
+<br>Каспийская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div>
+<br><br><font color="#DC143C">1-9</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+2-я Степная
+<br>3-я Степная 
+<br>4-я Степная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+100р.</font></span>
+ </div><br><br>
+<details></font><summary></font><font color="004491">Карагали</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></font></details>
+<font color="#DC143C">А</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+А.Волынского
+<br>А.Сулейманова
+<br>Абдрахманова
+<br>Абрикосовая 
+<br>Авангардная 
+<br>Авангардная 2-я 
+<br>Айвазовского
+<br>Айвовая 
+<br>Астраханская 
+<br>Аэродромная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Бакинская 
+<br>Белгородская 
+<br>Береговая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Васнецова
+<br>Веселая 
+<br>Весенняя 
+<br>Виноградная 
+<br>Вишневая 
+<br>Волжская 
+<br>Волынского
+<br>Восточная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Гагарина
+<br>Главная 
+<br>Городская 
+<br>Грушевая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Дачный 1-й 
+<br>Дачный 2-й 
+<br>Дачный 3-й 
+<br>Дорожная 
+<br>Дружбы
+<br>Дружбы народов</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Е</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ерик Мордань
+<br>Есенина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Заводская 
+<br>Звездная 
+<br>Зеленая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+К.Маркса
+<br>Казанская 
+<br>Казачья 
+<br>Камызякская 
+<br>Киевская 
+<br>Кизанская 
+<br>Кирова
+<br>Клубничная 
+<br>Колхозная 
+<br>Комсомольская 
+<br>Куйбышева
+<br>Кустодиева</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ленина
+<br>Лермонтова
+<br>Луговая 
+<br>Лунный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+М.Джалиля
+<br>Майская 
+<br>Малиновая 
+<br>Маяковского
+<br>Минская 
+<br>Мира
+<br>Мичуринская 
+<br>Молодежная 
+<br>Московская 
+<br>Мостовая 
+<br>Мунглашская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Набережная 
+<br>Народная 
+<br>Некрасова
+<br>Нижегородская 
+<br>Нижегородский 1-й 
+<br>Нижегородский 2-й 
+<br>Новая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Октябрьская 
+<br>Омская 
+<br>Ореховая 
+<br>Отрадная </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Паромная 
+<br>Персиковая 
+<br>Перспективная 
+<br>Песчаная 
+<br>Пионерская 
+<br>Пограничная 
+<br>Подгорная 
+<br>Почтовая 
+<br>Причальная 
+<br>Пушкина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Радужная 
+<br>Репина
+<br>Речная 
+<br>Розовая 
+<br>Ромашковая 
+<br>Ростовская 
+<br>Рябиновая 
+<br>Рязанская </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+С.Юлаева
+<br>Садовая улица
+<br>Самарская улица
+<br>Саратовская улица
+<br>Свердлова
+<br>Светлая 
+<br>Свободная 
+<br>Сиреневая 
+<br>Сливовая 
+<br>Смородиновая 
+<br>Советская 
+<br>Солнечная 
+<br>Степная 1-я 
+<br>Степная 2-я 
+<br>Сторожевая </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Тамбовская 
+<br>Тверская 
+<br>Тенистая 
+<br>Тихая 
+<br>Трудовая 
+<br>Тукая 
+<br>Тургенева</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Ц</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Цветочный 
+<br>Центральная </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Шишкина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Э</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Энергитическая </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Я</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Яблоневая </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">1-9</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+1-я Кизанская 
+<br>2-я Авангардная 
+<br>2-я Дачная 
+<br>2-я Кизанская 
+<br>2-я Пограничная 
+<br>3-я Кизанская 
+<br>4-я Кизанская </font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка <font color="red">+150р.</font></span>
+ </div><br><br>
+<details></font><summary></font><font color="520000">Советский поселок</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка</center></font></details>
+<font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Братская
+<br>Бузанская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Гужвина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Замьянская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Красноводская
+<br>Краснофлотская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Луговая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Огородная
+<br>Озинская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Панфилова
+<br>Песчаная
+<br>Пионерская
+<br>Портовая
+<br>Пристанский</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Ртищевская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Садовая
+<br>Ставропольская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Тракторная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Школьная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div>
+<br><br><font color="#DC143C">1-9</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+2-я песчаная
+<br>4-й переулок
+<br>5-й переулок
+<br>6-й переулок
+<br>7-й переулок
+<br>8-й переулок
+<br>9-й переулок
+<br>1-6-я Замьянская
+<br>1-6-я Луговая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">900р.
+</font>беспл. доставка<br>При заказе менее <font color="red">900р.</font> доставка от суммы <center><font color="red">600р.+150р.</font> сама доставка<font color="red">+150р.</font></span>
+ </div><br><br>
+</font><details><summary></font><font color="007a56">Пригородный поселок</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная<br></font></details>
+<font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Бармы
+<br>Бэровская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Васнецова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Габдулы Тукая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Заводская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Казанская
+<br>Казанский</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Магистральная
+<br>Мира
+<br>Мусы Джалиля</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Неверова
+<br>Николаевское</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Полевая
+<br>Потехина
+<br>Проточная
+<br>Пушкина</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Садовая
+<br>Светлая
+<br>Серебристая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Тихий переулок
+<br>Трусова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Ю</font>
+<font size="2"><Br>Юбилейная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">600р.
+</font><br>Доставка бесплатная</span>
+ </div><br><br>
+<details></font><summary></font><font color="3ab800">Новоначалово</summary>
+<font color="black" size="2">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка<br></font></details>
+<font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Весенний переулок
+<br>Виноградная улица
+<br>Вольная улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Дачная улица
+<br>Декоративный микрорайон
+<br>Дивная улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Заречная улица
+<br>Заречный микрорайон
+<br>Зеленая улица
+<br>Зеленый переулок</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Казачинская улица
+<br>Камышовая улица
+<br>Кольцевая улица
+<br>Кольцевой переулок
+<br>Коммунальная улица
+<br>Конечный переулок
+<br>Кутумная улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Магистральная улица
+<br>Монтажная улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Началовское шоссе
+<br>Новая улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Офицерская улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Пригородная улица
+<br>Придорожная улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+СНТ Коммунальник
+<br>СНТ сдт Астра обл управления Россельхозбанк
+<br>СНТ сдт Декоратор
+<br>СНТ сдт Знание
+<br>Садовый переулок
+<br>Светлая улица
+<br>Совхозная улица
+<br>Солнечный микрорайон</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ц</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Центральная улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Шоссейная улица</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><font color="#DC143C">Ю</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Юбилейная улица
+<br>Южный микрорайон</font></div>
+<span class="hidden">При заказе от <font color="red">900р.
+</font>доставка беспл.<br>При заказе от <font color="red">600р.+150р.</font> Доставка</span>
+ </div>
+<br><br><details></font><summary></font><font color="0a4500">Ацкк <font color="grey">(Городок Бумажников)</font></summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</font></details>
+<font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Багрицкого
+<br>Блюхера
+<br>Бумажников</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">В</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Варшавская
+<br>Верди
+<br>Всеволода Иванова
+<br>Вячеслава Мейера</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Г</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Гамарника</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Ж</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Железнякова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Коновалова
+<br>Куусинена</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Мехоношина
+<br>Монтажников</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Раевского
+<br>Русанова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Семашко</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Тренева</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">У</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Удмуртская
+<br>Универсальная
+<br>Универсальный</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Ф</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Флеминга</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Х</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Хосе Диаса</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Ч</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Чкалова</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br><br><font color="#DC143C">Ш</font>
+<div class="block">
+ <div class="hover">
+<font size="2">
+Шахтинская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">850р.
+ + 150p.</font> доставкa<br>При заказе от <font color="red">1000р.</font> доставка беспл.</span>
+ </div>
+<br>
+</div>
+
+<div class="text2cols-item">
+<font size="4" color="blue"><center><strong>ЖИЛАЯ 8В</strong></center></font>
+<details></font><summary></font><font color="0a4500">Свободный поселок</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">500р.
+</font>беспл. доставка</font></details>
+<font color="#DC143C"><b>А</b></font>
+<div class="block">
+ <div class="hover"><font size="2">Агрономическая
+<br>Атарбекова 
+<br>Атарбекова 1-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C"><b>Б</b></font>
+<div class="block">
+ <div class="hover"><font size="2">Бабкина
+<br>Березовая 
+<br>Болдинская 1-я</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C"><b>В</b></font>
+<div class="block">
+ <div class="hover"><font size="2">Валдайская
+<br>Валдайская 1-я 
+<br>Валдайская 2-я
+<br>Валдайская 3-я
+<br>Валдайская 4-я
+<br>Валдайская 5-я
+<br>Валдайская 6-я
+<br>Винницкая
+<br>Войкова
+<br>Волховстроя
+<br>Вольная 2-я
+<br>Вольная 3-я
+<br>Вольный
+<br>Вольный 2-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Д</font>
+<div class="block">
+ <div class="hover"><font size="2">Дальняя
+<br>Днепростроя</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">З</font>
+<div class="block">
+ <div class="hover"><font size="2">Заслонова
+<br>Заслонова 2-я</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">И</font>
+<div class="block">
+ <div class="hover"><font size="2">Индустриальная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">К</font>
+<div class="block">
+ <div class="hover"><font size="2"><br>Кавказская
+<br>Кавказская 1-й проезд
+<br>Кавказская 2-й проезд
+<br>Кавказская 3-й проезд
+<br>Кавказская 4-й проезд
+<br>Карачинская
+<br>Клары Цеткин
+<br>Колумба
+<br>Колхозная
+<br>Кошманова
+<br>Красина
+<br>Кустодиева</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Л</font>
+<div class="block">
+ <div class="hover"><font size="2">Ладожская
+<br>Лемисова
+<br>Лемисова 2-й
+<br>Лемисова 3-й
+<br>Лемисова 4-й
+<br>Ловецкая
+<br>Ловецкий
+<br>Лучистая</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">М</font>
+<div class="block">
+ <div class="hover"><font size="2">Московская
+<br>Московская 2-я
+<br>Московский
+<br>Московский 2-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Н</font>
+<div class="block">
+ <div class="hover"><font size="2">Набережная Тимирязева
+<br>Набережный
+<br>Набережный 2-й
+<br>Нерчинская
+<br>Нерчинская 1-я
+<br>Новороссийская
+<br>Новороссийская 1-я
+<br>Норильская</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">О</font>
+<div class="block">
+ <div class="hover"><font size="2">Онежская 2-я</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">П</font>
+<div class="block">
+ <div class="hover"><font size="2"><br>Партизанская
+<br>Перекопский
+<br>Перекопский 2-й
+<br>Плавецкий
+<br>Причальный
+<br>Промысловый</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Р</font>
+<div class="block">
+ <div class="hover"><font size="2">Революционная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">С</font>
+<div class="block">
+ <div class="hover"><font size="2">Свободинская
+<br>Сибирская
+<br>Соймонова
+<br>Соликамская
+<br>Соликамская 1-я
+<br>Соликамская 2-я
+<br>Соликамский
+<br>Соликамский 1-й
+<br>Соликамский 2-й
+<br>Староверова
+<br>Староверова
+<br>Староверова 2-й</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover"><font size="2">Тимирязева
+<br>Тракторстроя
+<br>Тракторстроя
+<br>Трудфронта</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><br><font color="#DC143C">Ф</font>
+<div class="block">
+ <div class="hover"><font size="2">Федеративная
+<br>Фрунзе</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Ц</font>
+<div class="block">
+ <div class="hover"><font size="2">Целинная
+<br>Цюрупы</font></font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br>
+<br></font></font><details><summary><font color="#D2691E">Микрорайон Бабаевского</summary>
+<font color="black" size="2">Мин. сумма заказа <font color="red">500р.
+</font>беспл. доставка</font></details>
+<font color="#DC143C">А</font>
+<div class="block">
+ <div class="hover"><font size="2">Аксакова</font></div>
+ <span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Б</font>
+<div class="block">
+ <div class="hover"><font size="2">Бориславская</font>
+<font size="2"><br>Бульварная</font></div>
+<span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Ж</font>
+<div class="block">
+ <div class="hover"><font size="2">Жилая</font></div>
+ <span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">Т</font>
+<div class="block">
+ <div class="hover"><font size="2">Туркменская</font></div>
+ <span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><font color="#DC143C">У</font>
+<div class="block">
+ <div class="hover"><font size="2">Углегорский 11-й</font>
+<font size="2"><br>Углегорский 12-й</font></div>
+ <span class="hidden">Мин. сумма заказа <font color="red">500р.</font> доставка бесплатная</span>
+ </div>
+<br><br><details></font><summary></font><font color="grey">Камызяк</summary>
+<font color="black" size="2"><font color="red">НЕ ВОЗИМ</font></details>
+<br><br><details></font><summary></font><font color="grey">Ильинка</summary>
+<font color="black" size="2"><font color="red">НЕ ВОЗИМ</font></details>
+<br><br><details></font><summary></font><font color="grey">Красные Барикады</summary>
+<font color="black" size="2"><font color="red">НЕ ВОЗИМ</font></details>
+<br><br><details></font><summary></font><font color="grey">Татаро-Башмаковка</summary>
+<font color="black" size="2"><font color="red">НЕ ВОЗИМ</font></details>
+</div>
+</fieldset>
+</body>
+</html>
